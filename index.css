@@ -1,0 +1,27 @@
+.flex-column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.flex-row{
+    width: 15%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.title{
+    margin-top: 15%;
+}
+
+.joke{
+    margin-top: 5%;  
+}
+
+#myJokeData {
+    width: 60%;
+    margin-top: 5%;
+}
+
+.review{
+    margin-top: 2%;
+}
